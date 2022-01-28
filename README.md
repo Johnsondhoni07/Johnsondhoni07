@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Johnsondhoni07
 - 👀 I’m interested in machine learning and how it workss
-- 🌱 I’m not a Lazy programmer loves to play kabaddi and cricket
 
 - 📫 How to reach me 
 
