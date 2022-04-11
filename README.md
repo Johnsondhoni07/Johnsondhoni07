@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @Johnsondhoni07
-- 👀 I’m interested in machine learning and how it workss
-
-- 📫 How to reach me 
-
-<!---
-Johnsondhoni07/Johnsondhoni07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hii , I am Johnson Deva Asir I am a Web Developer and a Data Analyst one who can do Both the jobs. I am interested in Data Science and in my free times use to read some blogs related to my Domain. 
