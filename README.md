@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/johnson_deva_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="johnson_deva_07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/johnson deva asir r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnson deva asir r" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/johnson-deva-asir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnson deva asir r" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/johnsondevaasir1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/johnsondevaasir1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/johnsondhoni07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/johnsondhoni07/" height="30" width="40" /></a>
 </p>
